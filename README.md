@@ -52,7 +52,7 @@
 
 - Google Cloud Machine Learning Engine - [Link](https://cloud.google.com/ml-engine/docs/tensorflow/technical-overview)
 
-- Domino's DataLab - Link
+- Domino's DataLab -  [Link](https://www.dominodatalab.com/product/)
 
 ### Machine Learing Server / Model Servers
 - prediction.io - [Link](http://predictionio.apache.org/index.html)
@@ -79,7 +79,7 @@
 - Blog : A Guide to Scaling Machine Learning Models in Production - [Link](https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846)
 
 ### Performance Benchmarking For Machine Learning Libraries
-- benchm-ml : Benchmark for scalability, speed, accuracy of commonly used open source implementations of the top machine learning algorithms (using binary classification) - [github](https://github.com/szilard/benchm-ml#summary), slides(?)
+- benchm-ml : Benchmark for scalability, speed, accuracy of commonly used open source implementations of the top machine learning algorithms (using binary classification) - [github](https://github.com/szilard/benchm-ml#summary), (talks)[https://github.com/szilard/talks]
 
 - MLPerf (Work In Progress)- ML benchmark suite for measuring performance of ML software frameworks, ML hardware accelerators, and ML cloud platforms - [Link](https://mlperf.org/)
 
