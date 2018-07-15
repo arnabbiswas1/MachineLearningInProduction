@@ -1,7 +1,6 @@
 # Machine Learning In Production
 
 ### First Thing First - What does it mean by ML In Production?
-
 - How do you take a machine learning model to production? Håkon Hapnes Strand's answer in Quora - [Here](http://qr.ae/TUI7Cc) & [There](https://www.quora.com/Do-most-machine-learning-algorithms-run-in-batch-or-do-they-run-every-time-they-get-a-new-bit-of-data/answer/H%C3%A5kon-Hapnes-Strand)
 
 - When Models Go Rogue: Hard Earned Lessons About Using Machine Learning in Production - [Slides](https://www.slideshare.net/DavidTalby/when-models-go-rogue-hard-earned-lessons-about-using-machine-learning-in-production), [Talk](https://www.infoq.com/presentations/practices-lessons-ml-systems), [Talk at Strata Data Conference 2017](https://www.safaribooksonline.com/videos/strata-data-conference/9781491976241/9781491976241-video308850)
@@ -14,7 +13,6 @@
 
 
 ### Use Cases & Papers
-
 - Michelangelo: Uber’s Machine Learning Platform - [Blog](https://eng.uber.com/michelangelo/), [Paper](http://proceedings.mlr.press/v67/li17a/li17a.pdf)
 
 - TFX: A TensorFlow-Based Production-Scale Machine Learning Platform (by Google) - [Paper](http://www.kdd.org/kdd2017/papers/view/tfx-a-tensorflow-based-production-scale-machine-learning-platform)
@@ -34,6 +32,16 @@
 
 - Practical Methodology from Deep Learning Book - [Chapter](http://www.deeplearningbook.org/contents/guidelines.html)
 
+### Courses
+
+- The Facebook Field Guide to Machine Learning - [Videos](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
+
+- Machine Learning Crash Course (by Google)
+  - Production ML Systems - [Link](https://developers.google.com/machine-learning/crash-course/production-ml-systems)
+  - Static vs. Dynamic Training - [Link](https://developers.google.com/machine-learning/crash-course/static-vs-dynamic-training/video-lecture)
+  - Static vs. Dynamic Inference - [Link](https://developers.google.com/machine-learning/crash-course/static-vs-dynamic-inference/video-lecture)
+  - Data Dependencies - [Link](https://developers.google.com/machine-learning/crash-course/data-dependencies/video-lecture)
+
 ### End to End Machine Learning (As a Service)
 - Amazon Sagemaker - [Feature List](https://aws.amazon.com/sagemaker/features/), [Documentation](https://aws.amazon.com/sagemaker/developer-resources/)
 
@@ -47,13 +55,11 @@
 - Domino's DataLab - Link
 
 ### Machine Learing Server / Model Servers
-
 - prediction.io - [Link](http://predictionio.apache.org/index.html)
 - SKIL - Skymind Intelligence Layer - [Link](https://deeplearning4j.org/machine-learning-server.html#skymind-intelligence-layer-skil)
 - MLFlow (Alpha) - [Link](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html)
 
 ### Model Management
-
 - How do you version control models? - Quora Answer by Anand Sampat, Co-Founder & CEO @ Datmo - [Link](http://qr.ae/TUI7bo)
 
 - H2O Steam - No Active Development. Open Source Version is still available - [Documentation](), [github](https://github.com/h2oai/steam) 
@@ -74,5 +80,6 @@
 
 ### Performance Benchmarking For Machine Learning Libraries
 - benchm-ml : Benchmark for scalability, speed, accuracy of commonly used open source implementations of the top machine learning algorithms (using binary classification) - [github](https://github.com/szilard/benchm-ml#summary), slides(?)
+
 - MLPerf (Work In Progress)- ML benchmark suite for measuring performance of ML software frameworks, ML hardware accelerators, and ML cloud platforms - [Link](https://mlperf.org/)
 
