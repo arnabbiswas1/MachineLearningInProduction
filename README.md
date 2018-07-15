@@ -26,4 +26,53 @@
 ### Best Practices
 - Rules of Machine Learning: Best Practices for ML Engineering - [Document](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf), [Video](https://sites.google.com/site/wildml2016nips/schedule)
 
-- What’s your ML Test Score? A rubric for ML production systems - [Paper](https://sites.google.com/site/wildml2016nips/SculleyPaper1.pdf)
+- What’s your ML Test Score? A rubric for ML production systems - [Paper](https://sites.google.com/site/wildml2016nips/SculleyPaper1.pdf), [Slides](https://sites.google.com/site/wildml2016nips/SculleySlides1.pdf), [Video](https://sites.google.com/site/wildml2016nips/schedule)
+
+- Hidden Technical Debt in Machine Learning Systems - [Paper](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
+
+- Machine Learning: The High Interest Credit Card of Technical Debt - [Paper](https://ai.google/research/pubs/pub43146)
+
+- Practical Methodology from Deep Learning Book - [Chapter](http://www.deeplearningbook.org/contents/guidelines.html)
+
+### End to End Machine Learning (As a Service)
+- Amazon Sagemaker - [Feature List](https://aws.amazon.com/sagemaker/features/), [Documentation](https://aws.amazon.com/sagemaker/developer-resources/)
+
+- Azure Machine Learning Service (Not Azure Machine Studio) - [Link](https://azure.microsoft.com/en-in/services/machine-learning-services/)
+  - Experimentation service
+  - Model management
+  - Workbench
+
+- Google Cloud Machine Learning Engine - [Link](https://cloud.google.com/ml-engine/docs/tensorflow/technical-overview)
+
+- Domino's DataLab - Link
+
+### Machine Learing Server / Model Servers
+
+- prediction.io - [Link](http://predictionio.apache.org/index.html)
+- SKIL - Skymind Intelligence Layer - [Link](https://deeplearning4j.org/machine-learning-server.html#skymind-intelligence-layer-skil)
+- MLFlow (Alpha) - [Link](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html)
+
+### Model Management
+
+- How do you version control models? - Quora Answer by Anand Sampat, Co-Founder & CEO @ Datmo - [Link](http://qr.ae/TUI7bo)
+
+- H2O Steam - No Active Development. Open Source Version is still available - [Documentation](), [github](https://github.com/h2oai/steam) 
+
+- ModelDB - Supports spark-ml, scikit-learn out of the box. Can be used with any ML environment via the ModelDB Light API. [Link](https://github.com/mitdbg/modeldb)
+
+- comet.ml - [Available as a service](https://www.comet.ml/)
+
+- studio.ml - [Link](https://www.studio.ml/)
+
+- Michelangelo: Uber’s Machine Learning Platform - [Blog](https://eng.uber.com/michelangelo/), [Paper](http://proceedings.mlr.press/v67/li17a/li17a.pdf)
+
+### Data Versioning
+- Data Version Control Blog - [Link](https://blog.dataversioncontrol.com/data-version-control-in-analytics-devops-paradigm-35a880e99133)
+
+### Quick Start
+- Blog : A Guide to Scaling Machine Learning Models in Production - [Link](https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846)
+
+### Performance Benchmarking For Machine Learning Libraries
+- benchm-ml : Benchmark for scalability, speed, accuracy of commonly used open source implementations of the top machine learning algorithms (using binary classification) - [github](https://github.com/szilard/benchm-ml#summary), slides(?)
+- MLPerf (Work In Progress)- ML benchmark suite for measuring performance of ML software frameworks, ML hardware accelerators, and ML cloud platforms - [Link](https://mlperf.org/)
+
