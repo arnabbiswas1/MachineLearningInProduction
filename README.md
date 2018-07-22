@@ -3,7 +3,7 @@
 ### First Thing First - What does it mean by ML In Production?
 - How do you take a machine learning model to production? Håkon Hapnes Strand's answer in Quora - [Here](http://qr.ae/TUI7Cc) & [There](https://www.quora.com/Do-most-machine-learning-algorithms-run-in-batch-or-do-they-run-every-time-they-get-a-new-bit-of-data/answer/H%C3%A5kon-Hapnes-Strand)
 
-- When Models Go Rogue: Hard Earned Lessons About Using Machine Learning in Production - [Slides](https://www.slideshare.net/DavidTalby/when-models-go-rogue-hard-earned-lessons-about-using-machine-learning-in-production), [Talk](https://www.infoq.com/presentations/practices-lessons-ml-systems), [Talk at Strata Data Conference 2017](https://www.safaribooksonline.com/videos/strata-data-conference/9781491976241/9781491976241-video308850)
+- When Models Go Rogue: Hard Earned Lessons About Using Machine Learning in Production - [Blog](https://www.oreilly.com/ideas/lessons-learned-turning-machine-learning-models-into-real-products-and-services), [Slides](https://www.slideshare.net/DavidTalby/when-models-go-rogue-hard-earned-lessons-about-using-machine-learning-in-production), [Talk](https://www.infoq.com/presentations/practices-lessons-ml-systems), [Talk at Strata Data Conference 2017](https://www.safaribooksonline.com/videos/strata-data-conference/9781491976241/9781491976241-video308850)
 
 - What does your production machine learning pipeline look like? - [Hacker News Thread](https://news.ycombinator.com/item?id=13821217)
 
@@ -62,9 +62,9 @@
 ### Model Management
 - How do you version control models? - Quora Answer by Anand Sampat, Co-Founder & CEO @ Datmo - [Link](http://qr.ae/TUI7bo)
 
-- H2O Steam - No Active Development. Open Source Version is still available - [Documentation](), [github](https://github.com/h2oai/steam) 
+- H2O Steam - Not under active development. Open Source Version is still available under AGPL license ([viral?](https://groups.google.com/forum/#!topic/h2ostream/qywaVdnHgIY)) - [Documentation](http://docs.h2o.ai/steam/latest-stable/index.html), [github](https://github.com/h2oai/steam) 
 
-- ModelDB - Supports spark-ml, scikit-learn out of the box. Can be used with any ML environment via the ModelDB Light API. [Link](https://github.com/mitdbg/modeldb)
+- ModelDB - Developed as a part of PHD research project at MIT. Supports spark-ml, scikit-learn out of the box. Can be used with any ML environment via the ModelDB Light API. Not under active development(?) - [Link](https://github.com/mitdbg/modeldb)
 
 - comet.ml - [Available as a service](https://www.comet.ml/)
 
