@@ -55,12 +55,16 @@
 - Domino's DataLab -  [Link](https://www.dominodatalab.com/product/)
 
 ### Machine Learing Server / Model Servers
-- prediction.io - [Link](http://predictionio.apache.org/index.html)
-- SKIL - Skymind Intelligence Layer - [Link](https://deeplearning4j.org/machine-learning-server.html#skymind-intelligence-layer-skil)
 - MLFlow (Alpha) - [Link](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html)
+
+- prediction.io - [Link](http://predictionio.apache.org/index.html)
+
+- SKIL - Skymind Intelligence Layer - [Link](https://deeplearning4j.org/machine-learning-server.html#skymind-intelligence-layer-skil)
 
 ### Model Management
 - How do you version control models? - Quora Answer by Anand Sampat, Co-Founder & CEO @ Datmo - [Link](http://qr.ae/TUI7bo)
+
+- MLFlow (Alpha) Tracking Module - Python APIs can be used with any Machine Learning library for Model Management [Link](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html)
 
 - H2O Steam - Not under active development. Open Source Version is still available under AGPL license ([viral?](https://groups.google.com/forum/#!topic/h2ostream/qywaVdnHgIY)) - [Documentation](http://docs.h2o.ai/steam/latest-stable/index.html), [github](https://github.com/h2oai/steam) 
 
@@ -73,7 +77,8 @@
 - Michelangelo: Uber’s Machine Learning Platform - [Blog](https://eng.uber.com/michelangelo/), [Paper](http://proceedings.mlr.press/v67/li17a/li17a.pdf)
 
 ### Data Versioning
-- Data Version Control Blog - [Link](https://blog.dataversioncontrol.com/data-version-control-in-analytics-devops-paradigm-35a880e99133)
+- Data Version Control - [Blog](https://blog.dataversioncontrol.com/data-version-control-in-analytics-devops-paradigm-35a880e99133)
+- pachyderm - [Link](http://www.pachyderm.io/)
 
 ### Quick Start
 - Blog : A Guide to Scaling Machine Learning Models in Production - [Link](https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846)
