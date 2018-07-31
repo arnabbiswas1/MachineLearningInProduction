@@ -52,10 +52,10 @@
 
 - Google Cloud Machine Learning Engine - [Link](https://cloud.google.com/ml-engine/docs/tensorflow/technical-overview)
 
-- Domino's DataLab -  [Link](https://www.dominodatalab.com/product/)
+- Domino's DataLab - Available as a service & on premise [Link](https://www.dominodatalab.com/product/), [Demo Video](https://www.dominodatalab.com/resources/videos/domino-demo/)
 
 ### Machine Learing Server / Model Servers
-- MLFlow (Alpha) - [Link](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html)
+- MLFlow (Alpha) - Open Source [Link](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html)
 
 - prediction.io - [Link](http://predictionio.apache.org/index.html)
 
