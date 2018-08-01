@@ -83,6 +83,8 @@
 ### Quick Start
 - Blog : A Guide to Scaling Machine Learning Models in Production - [Link](https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846)
 
+- Blog : A guide to deploying Machine/Deep Learning model(s) in Production - [Link](https://medium.com/@maheshkkumar/a-guide-to-deploying-machine-deep-learning-model-s-in-production-e497fd4b734a)
+
 ### Performance Benchmarking For Machine Learning Libraries
 - benchm-ml : Benchmark for scalability, speed, accuracy of commonly used open source implementations of the top machine learning algorithms (using binary classification) - [github](https://github.com/szilard/benchm-ml#summary), (talks)[https://github.com/szilard/talks]
 
