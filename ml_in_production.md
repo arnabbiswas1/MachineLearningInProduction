@@ -22,7 +22,7 @@
 - Airbnb's End-to-End Machine Learning Infrastructure - [Slides](https://www.slideshare.net/FeiChen29/ml-platform-q1-meetup-airbnbs-endtoend-machine-learning-infrastructure), [Video](https://databricks.com/session/bighead-airbnbs-end-to-end-machine-learning-platform)
 
 ### Best Practices
-- Rules of Machine Learning: Best Practices for ML Engineering - [Document](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf), [Video](https://sites.google.com/site/wildml2016nips/schedule)
+- Rules of Machine Learning: Best Practices for ML Engineering - [Document](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf), [Video](https://sites.google.com/site/wildml2016nips/schedule), [google course](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
 - What’s your ML Test Score? A rubric for ML production systems - [Paper](https://sites.google.com/site/wildml2016nips/SculleyPaper1.pdf), [Slides](https://sites.google.com/site/wildml2016nips/SculleySlides1.pdf), [Video](https://sites.google.com/site/wildml2016nips/schedule)
 
@@ -55,7 +55,9 @@
 - Domino's DataLab - Available as a service & on premise [Link](https://www.dominodatalab.com/product/), [Demo Video](https://www.dominodatalab.com/resources/videos/domino-demo/)
 
 ### Machine Learing Server / Model Servers
-- MLFlow (Alpha) - Open Source [Link](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html)
+- kubeflow - [github](https://github.com/kubeflow/kubeflow), [kubeflow pipelines](https://cloud.google.com/blog/products/ai-machine-learning/getting-started-kubeflow-pipelines)
+
+- MLFlow (Beta) - Open Source [Link](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html)
 
 - prediction.io - [Link](http://predictionio.apache.org/index.html)
 
@@ -76,6 +78,9 @@
 
 - Michelangelo: Uber’s Machine Learning Platform - [Blog](https://eng.uber.com/michelangelo/), [Paper](http://proceedings.mlr.press/v67/li17a/li17a.pdf)
 
+### Feature Store
+- logicalclocks [Blog](https://www.logicalclocks.com/feature-store/)
+
 ### Data Versioning
 - Data Version Control - [Blog](https://blog.dataversioncontrol.com/data-version-control-in-analytics-devops-paradigm-35a880e99133)
 - pachyderm - [Link](http://www.pachyderm.io/)
@@ -88,5 +93,5 @@
 ### Performance Benchmarking For Machine Learning Libraries
 - benchm-ml : Benchmark for scalability, speed, accuracy of commonly used open source implementations of the top machine learning algorithms (using binary classification) - [github](https://github.com/szilard/benchm-ml#summary), (talks)[https://github.com/szilard/talks]
 
-- MLPerf (Work In Progress)- ML benchmark suite for measuring performance of ML software frameworks, ML hardware accelerators, and ML cloud platforms - [Link](https://mlperf.org/)
+- MLPerf - ML benchmark suite for measuring performance of ML software frameworks, ML hardware accelerators, and ML cloud platforms - [Link](https://mlperf.org/)
 
