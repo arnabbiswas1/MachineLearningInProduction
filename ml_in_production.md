@@ -33,7 +33,7 @@
 - Practical Methodology from Deep Learning Book - [Chapter](http://www.deeplearningbook.org/contents/guidelines.html)
 
 ### Courses
-- Deployment of Machine Learning Models (Udemy) - [Link](https://www.udemy.com/deployment-of-machine-learning-models/)
+- **Deployment of Machine Learning Models (Udemy)** - [Link](https://www.udemy.com/deployment-of-machine-learning-models/)
 - The Facebook Field Guide to Machine Learning - [Videos](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 
 - Machine Learning Crash Course (by Google)
@@ -86,7 +86,7 @@
 - pachyderm - [Link](http://www.pachyderm.io/)
 
 ### Quick Start
-- Blog : How to Deploy Machine Learning Models A Guide - [Link](https://medium.com/@christopher.samiullah/how-to-deploy-machine-learning-models-4b8b98120ffe)
+- Blog : **How to Deploy Machine Learning Models A Guide** - [Link](https://medium.com/@christopher.samiullah/how-to-deploy-machine-learning-models-4b8b98120ffe)
 
 - Blog : A Guide to Scaling Machine Learning Models in Production - [Link](https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846)
 
